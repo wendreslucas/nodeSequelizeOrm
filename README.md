@@ -10,4 +10,4 @@
 - CRUD com Sequelize
 - Relações e associações
 - Controladores
-# nodeJsSequelize
+
